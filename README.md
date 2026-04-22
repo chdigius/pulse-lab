@@ -1,4 +1,5 @@
 # pulse-lab
+Spec driven development experiment #2
 
 Audio-reactive synthwave tunnel demo. Vue 3 + Three.js + Web Audio. Built spec-first as R&D for a future 3D layer in RadiantForge.
 
